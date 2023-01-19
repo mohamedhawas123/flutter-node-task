@@ -1,0 +1,4 @@
+#Thu Jan 19 02:30:58 EET 2023
+base.0=/home/metro/StudioProjects/annoncement/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
